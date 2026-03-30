@@ -102,7 +102,6 @@ POST /api/orders
 
 GET /api/orders
 
-📸 Screenshots
 
 Add screenshots of your UI here (recommended)
 
